@@ -1,0 +1,19 @@
+@media screen and (min-width: 768px) {
+  /* PC用aos設定 */
+  #aosSetting {
+    width: 610px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .thumbImg {
+    width: 100px;
+  }
+
+  /* 横幅設定 */
+  body {
+    max-width: 1080px;
+    min-width: 900px;
+    margin: 0 auto 0 auto;
+  }
+}
